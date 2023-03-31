@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": " abcd",
+      "body": "  Return nodes from leftmost node to rightmost node. Also if 2 nodes are outside the shadow of the tree and are at same position then consider the extreme ones onl",
+      "author": " niki",
+      "id": 7
+    },
+    {
+      "title": " lore m ipsum",
+      "body": " Your web app should be designed in a way that is user-friendly, visually appealing, and provides users with the information they need to make informed investment decisions. You will also need to ensure that your app is responsive and works well on all devices, including desktops, laptops, tablets, and mobile devices.",
+      "author": " gauri",
+      "id": 8
+    }
+  ]
+}
